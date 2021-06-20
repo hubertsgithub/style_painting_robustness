@@ -3,7 +3,7 @@
 ##### Project Website: https://www.cs.cornell.edu/projects/style-painting-robustness/
 
 
-##### Dataset: Coming soon! Please send us an email if you are interested in the Materials or PACS datasplits if it has not yet been uploaded.
+##### Dataset: Coming soon! Please send us an email if you are interested in the Materials or PACS datasplits if they are not yet been uploaded.
 
 ##### BibTeX:
 ``` 
