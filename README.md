@@ -3,7 +3,13 @@
 ##### Project Website: https://www.cs.cornell.edu/projects/style-painting-robustness/
 
 
-##### Dataset: Coming soon! Please send us an email if you are interested in the Materials or PACS datasplits if they are not yet been uploaded.
+##### Datasets
+
+- Materials-60K (OpenSurfaces, MINC, COCO):  <a href=https://www.cs.cornell.edu/projects/style-painting-robustness/datasets/Materials.zip>ZIP [4 GB]</a>
+- Out of Distribution Materials (FMD):  <a href=https://www.cs.cornell.edu/projects/style-painting-robustness/datasets/FMD_224_all.zip>ZIP [10 MB]</a>
+- Objects-1.5K (PACS):  <a href=https://www.cs.cornell.edu/projects/style-painting-robustness/datasets/PACS_1499.zip>ZIP [58 MB]</a>
+- Out of Distribution Objects (YFCC100M):  <a href=https://www.cs.cornell.edu/projects/style-painting-robustness/datasets/flickr_yfcc100m_PACS_categories.zip>ZIP [12 MB]</a>
+
 
 ##### BibTeX:
 ``` 
